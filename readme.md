@@ -18,3 +18,9 @@ plot(cars)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+## Titel
+
+|tabel|kolom|kolom|
+|1|2|3|
